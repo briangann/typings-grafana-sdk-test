@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es6",
+    "moduleResolution": "node",
+    "outDir": "out"
+  },
+  "filesGlob": [
+    "typings/index.d.ts",
+    "test/test.ts",
+    "grafana.d.ts",
+    "x/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "out",
+    "source"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "grafana-sdk-test",
+  "main": "grafana.d.ts",
+  "homepage": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700",
+    "ms": "github:typed-typings/npm-ms#f40c81c7f45bc35e970de851117c29fc959220b2"
+  },
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160908203239"
+  },
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160902022231"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
+  }
+}
